@@ -11,7 +11,7 @@ The following module is required, or you must install it:
 
 pip install rfdetr
 
-Model training with a custom dataset
+Model training with the custom dataset
 
 python TRAIN_AerialMaritime_Detection_RFDETRBase.py
 
