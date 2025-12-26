@@ -34,3 +34,5 @@ https://universe.roboflow.com/jacob-solawetz/aerial-maritime/dataset/24
 A similar project, but using YOLO:
 
 https://github.com/ablanco1950/Radar_Marine-Yolov11
+
+![Fig1](https://github.com/ablanco1950/AerialMaritime_Detection_RFDETRBase/blob/main/jetski3.png)
